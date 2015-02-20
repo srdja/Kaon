@@ -11,9 +11,9 @@ Cross platform scriptable game engine
 - glew
 
 ###Project setup:
-[OS X](#OS X Setup)  
-[Windows](#Windows Setup)  
-[Linux](#Linux Setup)  
+[OS X](#os-x-setup)  
+[Windows](#windows-setup)  
+[Linux](#linux-setup)  
 
 ###OS X Setup
 
